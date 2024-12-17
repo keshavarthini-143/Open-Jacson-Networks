@@ -21,7 +21,19 @@ Visual components and Python
 
 ## Program
 
+Developed by: KESHAVARTHINI.B
+
+Register Number: 24900033
+
+
+![Screenshot 2024-12-17 225108](https://github.com/user-attachments/assets/4fced889-77c3-465f-9af2-b30112c9f9cb)
+
 
 ## Output
 
+![Screenshot 2024-12-17 224746](https://github.com/user-attachments/assets/e4407d7a-63ef-4c24-9ba0-12fb77bd17e5)
+
+
 ## Result
+
+The average number of material in the system and the conveyor and waiting time are successfully calculated.
