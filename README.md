@@ -18,6 +18,8 @@ Visual components and Python
 
 ## Experiment:
 
+![WhatsApp Image 2024-12-17 at 22 57 39_83a48dde](https://github.com/user-attachments/assets/f4844bfc-899c-4bff-adea-b1f08f2b03f7)
+
 
 ## Program
 
